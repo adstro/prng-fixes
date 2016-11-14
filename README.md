@@ -1,1 +1,1 @@
-# prng-fixes
+# prng-fixes [![](https://jitpack.io/v/adstro/prng-fixes.svg)](https://jitpack.io/#adstro/prng-fixes)
